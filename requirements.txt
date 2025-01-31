@@ -5,5 +5,5 @@ plotly.express
 BeautifulSoup
 requests
 html5lib
-
+pip
 
