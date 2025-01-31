@@ -6,4 +6,4 @@ BeautifulSoup
 requests
 html5lib
 pip
-
+lxml
